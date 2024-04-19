@@ -15,9 +15,12 @@ If you use any or parts of the material included in this dataset, please cite th
 For material in `/EI2019`:
 ```
 @article{hofmeyer2019impacts,
-	title={Impacts of internal HMD Playback Processing on Subjective Quality Perception},
-	author={Hofmeyer, Frank and Fremerey, Stephan and Cohrs, Thaden and Raake, Alexander},
-	booktitle={Human Vision and Electronic Imaging 2019},
-	year={2019}
+  title={Impacts of internal HMD playback processing on subjective quality perception},
+  author={Hofmeyer, Frank and Fremerey, Stephan and Cohrs, Thaden and Raake, Alexander},
+  journal={Electronic Imaging},
+  volume={31},
+  pages={1--7},
+  year={2019},
+  publisher={Society for Imaging Science and Technology}
 }
 ```
