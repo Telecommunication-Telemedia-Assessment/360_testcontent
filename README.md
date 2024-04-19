@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/168753387.svg)](https://zenodo.org/badge/latestdoi/168753387)
+
 This repository contains some publicly available 360° videos.
 
 ## Directory structure
